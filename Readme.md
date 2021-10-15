@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84700316/137443809-ca395c18-8eca-4a89-94b6-e9cf828e4aa0.png" width=300px>
+  <img src="https://user-images.githubusercontent.com/72180173/137510546-80d6a57f-179a-4fe2-9a61-0dfab9ef316d.png" width=300px>
   </p>
 
+
   <h1 align="center"> Leran how to use Art? </h1>
-  <p align="center"> Are You a Beginning Artist? Here is What You Need to Know</p>
+  <p align="center">Hey, are You a Beginning Artist? Here is What You Need to Know</p>
   
 ## What is Art?
 Art is a highly diverse range of human activities engaged in creating visual, auditory, or performed artifacts— artworks—that express the author’s imaginative or technical skill, and are intended to be appreciated for their beauty or emotional power.
@@ -15,17 +16,6 @@ Art may be characterized in terms of mimesis (its representation of reality), ex
 Despite the seemingly indefinable nature of art, there have always existed certain formal guidelines for its aesthetic judgment and analysis. Formalism is a concept in art theory in which an artwork’s artistic value is determined solely by its form, or how it is made. Formalism evaluates works on a purely visual level, considering medium and compositional elements as opposed to any reference to realism , context, or content.
 
 Art is often examined through the interaction of the principles and elements of art. The principles of art include movement, unity, harmony, variety, balance, contrast, proportion and pattern. The elements include texture, form, space, shape, color, value and line. The various interactions between the elements and principles of art help artists to organize sensorially pleasing works of art while also giving viewers a framework within which to analyze and discuss aesthetic ideas.
-
-## What Does Art Do?
-A fundamental purpose inherent to most artistic disciplines is the underlying intention to appeal to, and connect with, human emotion.
-
-A fundamental purpose common to most art forms is the underlying intention to appeal to, and connect with, human emotion. However, the term is incredibly broad and is broken up into numerous sub-categories that lead to utilitarian , decorative, therapeutic, communicative, and intellectual ends. In its broadest form, art may be considered an exploration of the human condition, or a product of the human experience.
-
-The decorative arts add aesthetic and design values to everyday objects, such as a glass or a chair, transforming them from a mere utilitarian object to something aesthetically beautiful. Entire schools of thought exist based on the concepts of design theory intended for the physical world.
-
-Art can function therapeutically as well, an idea that is explored in art therapy. While definitions and practices vary, art therapy is generally understood as a form of therapy that uses art media as its primary mode of communication. It is a relatively young discipline, first introduced around the mid-20th century.
-
-Historically, the fine arts were meant to appeal to the human intellect, though currently there are no true boundaries. Typically, fine art movements have reacted to each other both intellectually and aesthetically throughout the ages. With the introduction of conceptual art and postmodern theory, practically anything can be termed art. In general terms, the fine arts represent an exploration of the human condition and the attempt to experience a deeper understanding of life.
 
 ## What Does Art Mean?
 The meaning of art is shaped by the intentions of the artist as well as the feelings and ideas it engenders in the viewer.
@@ -66,4 +56,4 @@ Each of the nine muses of ancient Greece oversaw a different field of human crea
 
 During the Middle Ages, the word “artista” referred to something resembling “craftsman,” or student of the arts. The first division into “major” and “minor” arts dates back to the 1400s with the work of Leon Battista Alberti, which focused on the importance of the intellectual skills of the artist rather than the manual skills of a craftsman. The European academies of the 16th century formally solidified the gap between the fine and the applied arts, which exists in varying degrees to this day. Generally speaking, the applied arts apply design and aesthetics to objects of everyday use, while the fine arts serve as intellectual stimulation.
 
-Currently, the term “artist” typically refers to anyone who is engaged in an activity that is deemed to be an art form. However, the questions of what is art and who is an artist are not easily answered. The idea of defining art today is far more difficult than it has ever been. After the exhibition during the Pop Art movement of Andy Warhol’s Brillo Box and Campbell’s Soup Cans, the questions of “what is art?” and “who is an artist?” entered a more conceptual realm. Anything can, in fact, be art, and the term remains constantly evolving.
+Star this repo if you learned something new..
